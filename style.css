@@ -21,3 +21,18 @@ h1 {
 	margin: 20px;
 	padding: 10px;
 }
+
+a {
+	color: brown;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: line-through;
+	color: bisque;
+}
+
+.content {
+	margin: 10px;
+	padding: 10px;
+}
