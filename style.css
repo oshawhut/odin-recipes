@@ -1,0 +1,23 @@
+* {
+	font-family: "Public Sans", sans-serif;
+}
+
+ul,
+li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0px 20px 0px 0px;
+}
+
+h1 {
+	margin: 0px 20px 0px 0px;
+}
+.flex {
+	display: flex;
+	background-color: lightpink;
+	justify-content: space-between;
+	text-align: center;
+	align-items: center;
+	margin: 20px;
+	padding: 10px;
+}
